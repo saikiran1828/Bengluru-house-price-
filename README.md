@@ -1,4 +1,4 @@
-predicting the bengluru house price app 
+ App for predicting the bengluru house prices
 ![](code%20basics/Screenshot%20(288).png)
 
 
